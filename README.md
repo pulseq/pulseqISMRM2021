@@ -5,8 +5,8 @@ Welcome to the *Pulseq* live demo repository! This repository will contain all s
 ## In a mean time ...
 
 In preparation to the demo please consider checking out the main *Pulseq* repository at https://github.com/pulseq/pulseq and familarizing yourself with the code and the example seequences and reconstructon scripts. See 
-pulseq/matlab/demoSeq and pulseq/matlab/demoRecon. You may also find an older version of the demo in 
-pulseq/matlab/liveTutorial/.
+[pulseq/matlab/demoSeq](https://github.com/pulseq/pulseq/tree/master/matlab/demoSeq) and [pulseq/matlab/demoRecon](https://github.com/pulseq/pulseq/tree/master/matlab/demoRecon). You may also find an older version of the demo in 
+[pulseq/matlab/liveTutorial](https://github.com/pulseq/pulseq/tree/master/matlab/liveTutorial).
 
 **See you at the live demo!**
 
