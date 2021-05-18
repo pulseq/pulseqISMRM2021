@@ -10,7 +10,10 @@ In preparation to the demo please consider checking out the main *Pulseq* reposi
 
 The [handout materials](Handout_Pulseq_demo_ismrm21_v2.pdf) to accompany the session are now available in the PDF format containing the slides from the presentation with some additional material and explanations. In particular, the second part of the document (page 18 and on) describe the code examples. Please keep in mind that these examples were specifically developed for the demo, so you might find some useful information there even if you are familiar with the previous versions of Pulseq. 
 
-Source code of the demo sequences and reconstruction scripts is available in the [code](https://github.com/pulseq/pulseqISMRM2021/tree/main/code) directory above. Please download the files to your computer and make them available to Matlab (e.g. by saving them in a subdirectory inside your Pulseq-Matlab installation and adding them to the Matlab's path). 
+Source code of the demo sequences and reconstruction scripts is available in the [code](https://github.com/pulseq/pulseqISMRM2021/tree/main/code) directory above. Please download the files to your computer and make them available to Matlab (e.g. by saving them in a subdirectory inside your Pulseq-Matlab installation and adding them to the Matlab's path). The directory [code](https://github.com/pulseq/pulseqISMRM2021/tree/main/code) contains two sub-directories:
+
+* seq : contains example pulse sequences specifically prepared for this demo
+* recon : contains the reconstruction scripts tested with the above sequences
 
 The pre-recoded raw MR data and examples of the reconstructed images can be accessed via the anonymous Dropbox link https://www.dropbox.com/sh/7lcugy3fe3cjiu9/AAAZK_nnCMLYAqQlUzPAEoN0a?dl=0 sorted by the participating systems: 
 
